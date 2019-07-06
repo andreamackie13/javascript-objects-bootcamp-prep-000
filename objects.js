@@ -1,5 +1,5 @@
 var playlist = {
-  artistName: songTitle
+  Kaskade: "Cold As Stone"
   
 }
 
